@@ -1,2 +1,5 @@
-.claude/
+.claude/memory/
+.claude/sessions/
+.claude/state/
+.claude/skills/.claude/
 
