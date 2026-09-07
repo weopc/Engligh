@@ -350,10 +350,15 @@
 🎯 Cleft sentences (What I love about … is … / The thing I like most is … / It's X that …)
 
 1. Điều tôi thích nhất ở công việc của mình là được giải quyết vấn đề thật.
+What I love most about my job is to sort out real problems 
 2. Thứ duy nhất tôi không chịu được là họp mà không có mục đích rõ ràng.
+the one think I can't stand is hopeless meetings 
 3. Không phải khối lượng việc làm tôi mệt, mà là việc bị ngắt quãng liên tục.
+workload is not what tires me out but it's continues interruption
 4. Cái tôi cần chỉ là hai tiếng yên tĩnh mỗi buổi sáng.
+what I only need is two quied hours every morning
 5. Điều làm tôi vui nhất là khi một bạn junior tự làm được việc gì đó.
+what makes me the happiest is that a junior developer can do something by himself
 6. Chính cái cảm giác không kiểm soát được mới làm tôi lo, không phải công việc.
 7. Điều tôi thích ở khu tôi ở là mọi thứ đều gần.
 8. Thứ tôi nhớ nhất ở công việc cũ là những người đồng nghiệp.
@@ -364,11 +369,17 @@
 🎯 Đảo ngữ nhấn mạnh (Not only … but also · Never have I … · Little did I know · Only later did I …)
 
 1. Không chỉ tôi làm xong đúng hạn, mà tôi còn phát hiện thêm hai lỗi khác.
+I not only completed tasks on time, but also I've caught two issues
 2. Chưa bao giờ tôi thấy căng như buổi họp đó.
+I've never seen any stressful meetings like that
 3. Nào ngờ đó lại là ngày làm việc cuối của anh ấy.
+it turns out that is the last working day of him 
 4. Chỉ sau này tôi mới nhận ra là mình đã hiểu sai yêu cầu.
+By then I've noticed that it turned out I completely misunderstood requirements 
 5. Hiếm khi nào tôi thấy khách hàng vui như thế.
+I rarely see how happiest the client is 
 6. Không chỉ mạng sập, mà cái laptop dự phòng của tôi cũng không lên.
+Not only network interruption but also my backup laptops aren't able to boot 
 7. Chưa bao giờ tôi tự hào về team mình như hôm đó.
 8. Phải đến khi khách hàng nói ra thì tôi mới biết có vấn đề.
 9. Nào ngờ cái lỗi nhỏ đó lại làm cả hệ thống dừng.
@@ -378,23 +389,37 @@
 🎯 Hedging & softening (tend to · might want to · I'd say · sort of · a bit) · should/ought/could
 
 1. Cậu có thể thử cách khác xem sao.
+Could you try another approach and see how it work?
 2. Nếu là tôi thì tôi sẽ hỏi lại khách hàng trước.
+If It were me I'd check with the client first 
 3. Cậu đã nghĩ đến việc chia nhỏ nó ra chưa?
+Have you thought about breaking it down into smaller pieces
 4. Có lẽ nên viết lại phần đó thì hơn.
+It might be better to rewrite that part.
 5. Tôi thấy là mình nên chờ thêm một hôm nữa.
+I think we should wait another day
 6. Cái này hơi khó nói, nhưng tôi nghĩ cậu đang làm quá nhiều việc một lúc.
+I find it difficult to say, but I think you are doing too many things for a while. 
 7. Người ta thường quên bước này, nên cậu để ý một chút nhé.
+Some people often forget this steps, you should focus on a bit. 
 8. Không phải là sai, chỉ là có cách gọn hơn thôi.
+It's not wrong but there is another simpler way.
 9. Nếu cậu không phiền thì tôi góp một ý nhỏ.
+would you mind If I contribute a small idea
 10. Có thể tôi nhầm, nhưng tôi nghĩ cái tên biến đó dễ gây hiểu sai.
+I might made a mistake but I think 
 
 ## Day 27 — Hopes, wishes & 'if only'
 🎯 wish + past / past perfect / would · mixed conditionals
 
 1. Tôi mong mọi thứ đơn giản hơn một chút.
+I wish everything had becomed a lot of eaiser.
 2. Giá mà tôi nói được tiếng Anh trôi chảy như cô ấy.
+If only I'd spoken english like her.
 3. Tôi mong cậu đừng ngắt lời tôi giữa buổi họp.
+I wish you'd interrupted my voice at the meeting
 4. Nếu tôi biết trước thì giờ tôi đã không ở tình cảnh này.
+If I'd known it in advance I 
 5. Giá mà hồi đó tôi học tử tế hơn thì giờ tôi đã đỡ vất vả.
 6. Tôi ước gì mình có nhiều thời gian với con hơn.
 7. Giá mà tôi đừng nhận thêm việc đó.
