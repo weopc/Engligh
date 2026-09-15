@@ -1,20 +1,18 @@
 # 30-Day English Program — Progress
-Current day: 5
+Current day: 11
 Started: 2026-07-18
 
 - [x] Day 1 — Daily routine & lifestyle
 - [x] Day 2 — Home & neighborhood
 - [x] Day 3 — Food, cooking & eating out
 - [x] Day 4 — A memorable day (telling a story)
-- [ ] Day 5 — Travel & experiences  ← current
-- [ ] Day 4 — A memorable day (telling a story)
-- [ ] Day 5 — Travel & experiences
-- [ ] Day 6 — Shopping, money & choices
-- [ ] Day 7 — Weekend & free time (Week 1 review)
-- [ ] Day 8 — Requests, permission, obligation & rules
-- [ ] Day 9 — Hobbies, interests & skills
-- [ ] Day 10 — Health, body & fitness
-- [ ] Day 11 — Plans, invitations & arrangements
+- [x] Day 5 — Travel & experiences
+- [x] Day 6 — Shopping, money & choices
+- [x] Day 7 — Weekend & free time (Week 1 review)
+- [x] Day 8 — Requests, permission, obligation & rules
+- [x] Day 9 — Hobbies, interests & skills
+- [x] Day 10 — Health, body & fitness
+- [ ] Day 11 — Plans, invitations & arrangements  ← current
 - [ ] Day 12 — Dreams, wishes & imagination
 - [ ] Day 13 — Regrets & what I'd change
 - [ ] Day 14 — Retelling what people said (Week 2 review)
